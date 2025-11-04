@@ -1,4 +1,4 @@
-# MAI-OOP-LR3
+# MAI-OOP-LR7
 # made by Egor Drobyshev
 oop labs 3 sem
 
