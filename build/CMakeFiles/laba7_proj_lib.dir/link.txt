@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblaba7_proj_lib.a CMakeFiles/laba7_proj_lib.dir/src/core.cpp.o CMakeFiles/laba7_proj_lib.dir/src/druid.cpp.o CMakeFiles/laba7_proj_lib.dir/src/factory_npc.cpp.o CMakeFiles/laba7_proj_lib.dir/src/npc.cpp.o CMakeFiles/laba7_proj_lib.dir/src/observer.cpp.o CMakeFiles/laba7_proj_lib.dir/src/orc.cpp.o CMakeFiles/laba7_proj_lib.dir/src/slaver.cpp.o CMakeFiles/laba7_proj_lib.dir/src/visitor_fight.cpp.o
+/usr/bin/ranlib liblaba7_proj_lib.a
